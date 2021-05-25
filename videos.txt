@@ -1,0 +1,119 @@
+Kanal Adı : Hello World - Abone Sayısı : 2.23K subscribers
+1.Video Adı : jQuery Dersleri - 3 (ready, click, hide, remove) - Görüntüleme Sayısı : 35 views
+2.Video Adı : Flutter - 51. Passcode Lock Screen - Görüntüleme Sayısı : 319 views
+3.Video Adı : Flutter - 50. Anlık Konum - Görüntüleme Sayısı : 331 views
+4.Video Adı : Flutter - 49. Snapping Sheet Example - Görüntüleme Sayısı : 779 views
+5.Video Adı : Ios (Swift) - 1. Başlangıç, basit bir uygulama - Görüntüleme Sayısı : 519 views
+6.Video Adı : Flutter - 48. Android App Bundle Oluşturma - Görüntüleme Sayısı : 266 views
+7.Video Adı : Flutter - 47. Figma ve FlutLab - Görüntüleme Sayısı : 811 views
+8.Video Adı : Flutter - 46. Pdf Oluşturma - Görüntüleme Sayısı : 435 views
+9.Video Adı : jQuery Dersleri - 2 (Nesneleri Seçmek - Seçiciler) - Görüntüleme Sayısı : 98 views
+10.Video Adı : Flutter - 45. Platform Channel (Swift & Kotlin) - Görüntüleme Sayısı : 428 views
+11.Video Adı : Flutter - 44. Firebase Veri Çekme & Veri Silme - Görüntüleme Sayısı : 704 views
+12.Video Adı : Flutter - 43. Firebase (Storage) Media yükleme - Görüntüleme Sayısı : 361 views
+13.Video Adı : Flutter - 42. Firebase (Cloud Firestore) Veri Ekleme - Görüntüleme Sayısı : 721 views
+14.Video Adı : Flutter - 41. Firebase Login, Logout ve Register işlemleri - Görüntüleme Sayısı : 1.5K views
+15.Video Adı : Veri Madenciliğinde Kümeleme - Görüntüleme Sayısı : 136 views
+16.Video Adı : Birliktelik Kuralları ve Ardışık Zamanlı Örüntüler - Görüntüleme Sayısı : 90 views
+17.Video Adı : Yılbaşı Çekilişi! - Görüntüleme Sayısı : 544 views
+18.Video Adı : 1,5k Abone - Teşekkürler!! - Görüntüleme Sayısı : 112 views
+19.Video Adı : jQuery Dersleri - 1 (jQuery Nedir, Nasıl Kullanılır, İlk Örnek) - Görüntüleme Sayısı : 217 views
+20.Video Adı : Outro - 2 - Görüntüleme Sayısı : 37 views
+21.Video Adı : Outro - 1 - Görüntüleme Sayısı : 42 views
+22.Video Adı : Intro - 4 - Görüntüleme Sayısı : 67 views
+23.Video Adı : Intro - 3 - Görüntüleme Sayısı : 43 views
+24.Video Adı : Outro - Görüntüleme Sayısı : 73 views
+25.Video Adı : Javascript Dersleri - 10 - Click, MouseOver ve MouseOut - Görüntüleme Sayısı : 90 views
+26.Video Adı : Intro-1 - Görüntüleme Sayısı : 63 views
+27.Video Adı : Intro-2 - Görüntüleme Sayısı : 56 views
+28.Video Adı : Intro - Görüntüleme Sayısı : 496 views
+29.Video Adı : Javascript Dersleri - 9 - Click Eventi ile Yazı Değiştirme - Görüntüleme Sayısı : 152 views
+30.Video Adı : Arduino OLED Ekran Başlangıç - Görüntüleme Sayısı : 924 views
+31.Video Adı : Flutter - 40. Arama ve Mail Ekranına Yönlendirme - Görüntüleme Sayısı : 676 views
+32.Video Adı : Flutter - 39. Android'e Firebase Ekleme - Görüntüleme Sayısı : 511 views
+33.Video Adı : Flutter - 38. IOS'a Firebase Ekleme - Görüntüleme Sayısı : 426 views
+34.Video Adı : Javascript Dersleri - 8 - Mantıksal Operatörler - Görüntüleme Sayısı : 85 views
+35.Video Adı : Flutter - 37. Scratcher (Kazı Kazan) Uygulaması - Görüntüleme Sayısı : 518 views
+36.Video Adı : Flutter - 36. Android Studio'dan IOS Emilatör - Görüntüleme Sayısı : 486 views
+37.Video Adı : Flutter - 35. Wrap - Görüntüleme Sayısı : 246 views
+38.Video Adı : Flutter - 34. ListView içinde Search Bar - Görüntüleme Sayısı : 1.2K views
+39.Video Adı : Flutter - 33. DateTime ve Toast Mesajı - Görüntüleme Sayısı : 389 views
+40.Video Adı : Flutter - 32. Youtube Player - Görüntüleme Sayısı : 1.1K views
+41.Video Adı : JavaScript Dersleri - 7 - Görüntüleme Sayısı : 95 views
+42.Video Adı : JavaScript Dersleri - 6 - Görüntüleme Sayısı : 132 views
+43.Video Adı : Flutter - 31. Lokalden Json Veri okuma - Görüntüleme Sayısı : 925 views
+44.Video Adı : 1K Abone Çekilişi! - Görüntüleme Sayısı : 407 views
+45.Video Adı : 1K Abone Çekilişi! - Görüntüleme Sayısı : 181 views
+46.Video Adı : Flutter Hackathon 2020 - Set Job - Görüntüleme Sayısı : 576 views
+47.Video Adı : Flutter - 30. Slider Example - Görüntüleme Sayısı : 580 views
+48.Video Adı : Flutter ile ilk Web uygulamamızı geliştiriyoruz! - Görüntüleme Sayısı : 784 views
+49.Video Adı : Flutter ile Web Uygulama - Giriş - Görüntüleme Sayısı : 1.3K views
+50.Video Adı : JavaScript Dersleri - 5 - Görüntüleme Sayısı : 72 views
+51.Video Adı : JavaScript Dersleri - 4 - Görüntüleme Sayısı : 86 views
+52.Video Adı : JavaScript Dersleri - 3 - Görüntüleme Sayısı : 94 views
+53.Video Adı : Sanal Devre | Tinkercad - Arduino Devresi - Görüntüleme Sayısı : 739 views
+54.Video Adı : ML - Ridge Regression Uygulamalı Proje - Görüntüleme Sayısı : 314 views
+55.Video Adı : Flutter - 29. Inkwell ve InkResponse (Resim, Yazı, İkon Tıklama) - Görüntüleme Sayısı : 427 views
+56.Video Adı : JavaScript Dersleri - 2 - Görüntüleme Sayısı : 115 views
+57.Video Adı : Flutter - 28. Checkbox && AlertDialog && Shared Preferences - Görüntüleme Sayısı : 1.2K views
+58.Video Adı : JavaScript Dersleri - 1 - Görüntüleme Sayısı : 549 views
+59.Video Adı : #EVDEKAL Flutter - 27. Stack - Görüntüleme Sayısı : 351 views
+60.Video Adı : #EVDEKAL Flutter - 26. Container - Görüntüleme Sayısı : 155 views
+61.Video Adı : #EVDEKAL Flutter - 25. Row - Görüntüleme Sayısı : 147 views
+62.Video Adı : #EVDEKAL Flutter - 24. Column - Görüntüleme Sayısı : 178 views
+63.Video Adı : #EVDEKAL Flutter - 23. Center - Görüntüleme Sayısı : 181 views
+64.Video Adı : #EVDEKAL Flutter - 22. AlertDialog Örneği - Görüntüleme Sayısı : 646 views
+65.Video Adı : #EVDEKAL Flutter - 21. Overflow | Taşma Hatalarına Son! - Görüntüleme Sayısı : 500 views
+66.Video Adı : Python Soru Cevap Serisi 4 - Görüntüleme Sayısı : 159 views
+67.Video Adı : #EVDEKAL Flutter - 20. Animasyon ekleme | Flare kullanımı - Görüntüleme Sayısı : 693 views
+68.Video Adı : #EVDEKAL Flutter - 19. Animasyon yapımı | Flare nedir? - Görüntüleme Sayısı : 779 views
+69.Video Adı : #EVDEKAL Flutter - 18. Switch ve Shared Preferences kullanımı - Görüntüleme Sayısı : 617 views
+70.Video Adı : #EVDEKAL Flutter - 17. Switch Özellikleri - Görüntüleme Sayısı : 243 views
+71.Video Adı : #EVDEKAL Flutter - 16. TextField Özellikleri - Görüntüleme Sayısı : 965 views
+72.Video Adı : Flutter - 15. Zamanlı Bildirim Gönderme - Görüntüleme Sayısı : 1.2K views
+73.Video Adı : Python Soru-Cevap Serisi - 3 - Görüntüleme Sayısı : 97 views
+74.Video Adı : Flutter - 14. Fancy Bottom Navigation Uygulaması - Görüntüleme Sayısı : 533 views
+75.Video Adı : Flutter - 13. Yazı Stili - Görüntüleme Sayısı : 268 views
+76.Video Adı : R Programlamaya Giriş - Görüntüleme Sayısı : 238 views
+77.Video Adı : Erasmus | Soru - Cevap - Görüntüleme Sayısı : 1.4K views
+78.Video Adı : Xamarin Eğitimi - 7. Navigation Drawer - Görüntüleme Sayısı : 478 views
+79.Video Adı : Python Soru Cevap Serisi -2 - Görüntüleme Sayısı : 218 views
+80.Video Adı : Python Soru Cevap Serisi - 1 - Görüntüleme Sayısı : 457 views
+81.Video Adı : Flutter - 12. Veritabanına Dosya Yükleme(Firebase Storage) - Görüntüleme Sayısı : 1.4K views
+82.Video Adı : Flutter - 11. Navigation Drawer Example - Görüntüleme Sayısı : 731 views
+83.Video Adı : Flutter - 10. Giriş Ekranı Tasarlama - Görüntüleme Sayısı : 2.5K views
+84.Video Adı : INSTAGRAM - İLK ÇEKİLİŞİMİZ - Görüntüleme Sayısı : 515 views
+85.Video Adı : Flutter - 9. Speech to Text - Görüntüleme Sayısı : 4.4K views
+86.Video Adı : Flutter - 8. ListView Tıklama Özelliği - Görüntüleme Sayısı : 328 views
+87.Video Adı : Flutter - 7. ListView Özellikleri - Görüntüleme Sayısı : 369 views
+88.Video Adı : Flutter - 6. ListView Yapısı - Görüntüleme Sayısı : 466 views
+89.Video Adı : Flutter - 5. Resim Ekleme Türleri - Görüntüleme Sayısı : 1.2K views
+90.Video Adı : Python Programming Series-3 If Checks, Loops, Arrays/Python Tutorial,Course - Görüntüleme Sayısı : 126 views
+91.Video Adı : Flutter - 4. Navigasyon İşlemi(Sayfa geçişi) - Görüntüleme Sayısı : 1.2K views
+92.Video Adı : Python 10 Bilgi Serisi 2 - İlk Proje, Değişkenler, Fonksiyon - Görüntüleme Sayısı : 168 views
+93.Video Adı : Python 10 Bilgi Serisi 1 - Giriş, Kurulum - Görüntüleme Sayısı : 397 views
+94.Video Adı : Firebase - 4. Authentication Android Studio Java - Görüntüleme Sayısı : 371 views
+95.Video Adı : Flutter - 3. Buton Türleri - Görüntüleme Sayısı : 942 views
+96.Video Adı : GitHub Desktop ile proje yüklemek çok kolay! - Görüntüleme Sayısı : 19K views
+97.Video Adı : Flutter - 2. Camera App - Görüntüleme Sayısı : 2.6K views
+98.Video Adı : Linux Sistem Yönetimi - 10 Komut Serisi(4) - Görüntüleme Sayısı : 248 views
+99.Video Adı : Linux Sistem Yönetimi - 10 Komut Serisi (Ders 3) - Görüntüleme Sayısı : 363 views
+100.Video Adı : Flutter - 1. Nedir? / Nasıl kurulur? - Görüntüleme Sayısı : 3.9K views
+101.Video Adı : Linux Sistem Yönetimi - 10 Komut Serisi (Ders 2) - Görüntüleme Sayısı : 221 views
+102.Video Adı : Firebase - 3. ML Kit ~ Nesne tanıma/Recognize Landmarks - Görüntüleme Sayısı : 798 views
+103.Video Adı : Linux Sistem Yönetimi - 10 Komut Serisi (Ders 1) - Görüntüleme Sayısı : 1.1K views
+104.Video Adı : Firebase - 2. ML Kit ~ Dil Kimliği / Language Identification - Görüntüleme Sayısı : 1K views
+105.Video Adı : Firebase - 1. Nedir? / Nasıl kullanılır? - Görüntüleme Sayısı : 11K views
+106.Video Adı : Xamarin Eğitimi - 6. Local Notification/Push Notification Example - Görüntüleme Sayısı : 1K views
+107.Video Adı : Git Teknolojisi - 5. Versiyonlama İşlemi - Görüntüleme Sayısı : 137 views
+108.Video Adı : Görüntü İşleme ile Yüz Algılama (Image Processing for Face Detection) - Görüntüleme Sayısı : 393 views
+109.Video Adı : Xamarin Eğitimi - 5. AlertDialog and Switch Example - Görüntüleme Sayısı : 473 views
+110.Video Adı : Xamarin Eğitimi - 4. TimePicker Example - Görüntüleme Sayısı : 653 views
+111.Video Adı : Python ile Görüntü İşleme Projesi - Görüntüleme Sayısı : 5.2K views
+112.Video Adı : Git Teknolojisi - 4. Staging Area - Görüntüleme Sayısı : 133 views
+113.Video Adı : Xamarin Eğitimi - 3. ListView Example - Görüntüleme Sayısı : 1K views
+114.Video Adı : Git Teknolojisi - 3. Entegre ve Konfigürasyon - Görüntüleme Sayısı : 166 views
+115.Video Adı : Xamarin Eğitimi - 2. Login Page - Görüntüleme Sayısı : 3.2K views
+116.Video Adı : Git Teknolojisi - 2. Kurulum - Görüntüleme Sayısı : 255 views
+117.Video Adı : Xamarin Eğitimi - 1. Xamarin'e Giriş - Görüntüleme Sayısı : 8.2K views
+118.Video Adı : Git Teknolojisi - 1. Tanıtım ve Kaynak - Görüntüleme Sayısı : 639 views
